@@ -29,6 +29,8 @@
 - The Views - These are the user interaction (UI) screens
 - Controllers – These are the classes responsible for handling user interactions with views (handling interaction events with screens)
 
+<img src="/src/assets/imgs/model_mvc.png" alt="MVC" style="width: 600px;">
+
 ### Views
 
 #### Home Screen
@@ -61,7 +63,7 @@
 
 <img src="/src/assets/imgs/department_enter.png" alt="Enter Department" style="width: 600px;">
 
-#### Deleter Screen
+#### Delete Screen
 
 <img src="/src/assets/imgs/delete.png" alt="Delete Screen" style="width: 600px;">
 
