@@ -1,5 +1,22 @@
 # Project Workshop with JavaFX and JDBC
 
+## Table of Contents
+
+1. [General Objective](#general-objective)
+2. [Technologies Used](#technologies-used)
+3. [Project Overview](#project-overview)
+	1. [JavaFX MVC](#javafx-mvc)
+	2. [Views](#views)
+4. [Versions](#versions)
+5. [Tools](#tools-macos)
+	1. [Scene Builder](#scene-builder)
+	2. [Eclipse](#eclipse)
+	3. [JavaFX SDK](#javafx-sdk)
+	4. [MySQL Connector](#mysql-connector)
+6. [Configure the Tools](#configure-the-tools-macos)
+
+---
+
 ## General Objective
 
 - Learn JavaFX application development with JDBC.
@@ -7,6 +24,8 @@
 - Know the fundamentals and use of tools.
 
 - Use Scene Builder to speed up creating JavaFX UIs.
+
+---
 
 ## Technologies Used
 
@@ -17,6 +36,8 @@
 ### Scene Builder
 
 - Scene Builder is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding. Users can drag and drop UI components to a work area, modify their properties, apply style sheets, and the FXML code for the layout that they are creating is automatically generated in the background.
+
+---
 
 ## Project Overview
 
@@ -67,13 +88,17 @@
 
 <img src="/src/assets/imgs/delete.png" alt="Delete Screen" style="width: 600px;">
 
+---
+
 ## Versions
 
 - Java 21.0.3
 - MySQL Java Connector 8.4.0
 - JavaFX 17.0.11
 
-## Install the Tools (MacOS)
+---
+
+## Tools (MacOS)
 
 ### Scene Builder
 
@@ -90,6 +115,8 @@
 ### MySQL Connector
 
 - Download [MySQL Connector](https://dev.mysql.com/downloads/connector/j/) - Select **Platform Independent**
+
+---
 
 ## Configure the Tools (MacOS)
 
